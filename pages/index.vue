@@ -34,7 +34,7 @@
     <font-awesome-icon :icon="['fab', 'facebook']"/>
     <font-awesome-icon :icon="['fas', 'coffee']"/>
     <font-awesome-icon :icon="['fab', 'font-awesome']"/>
-    
+    <font-awesome-icon :icon="['fab', 'font-awesome']"/>
   </div>
   <nuxt-link to="/">sdasda</nuxt-link>
 </template>
